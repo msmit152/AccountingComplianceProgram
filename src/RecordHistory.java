@@ -1,5 +1,4 @@
 import java.math.BigDecimal;
-
 /**RecordHistory is a Record that maintains each transaction in BalanceSheet database, 
 	whether that be login, logout, add, modify, or delete
 	@author Michael Smith*/
@@ -25,7 +24,6 @@ public class RecordHistory extends Record{
 		}
 		this.name = name;
 	}
-	
 	/**
 	@param log is true is login or false if logout
 	@param name saves to this*/

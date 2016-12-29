@@ -1,5 +1,4 @@
 import java.math.BigDecimal;
-
 /** Record maintains amount of a transaction and whether it is a credit or debit  
  * @author Michael Smith*/
 public class Record {

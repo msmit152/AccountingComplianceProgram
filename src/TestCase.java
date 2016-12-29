@@ -110,7 +110,4 @@ public class TestCase {
 		Record expected = new Record(new BigDecimal(-100), 2);
 		assertEquals(actual.toString(), expected.toString());
 	}
-	
-	
-	
 }
